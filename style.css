@@ -1,0 +1,9 @@
+#PhotoPerfil {
+    border-radius: 50%;
+}
+
+#img-post-1 {
+    margin: 2%;
+    width: 50%;
+    border-radius: 10px;
+}
